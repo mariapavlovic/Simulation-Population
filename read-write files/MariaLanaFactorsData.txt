@@ -1,0 +1,15 @@
+location=america
+rate=fastSpread
+cure=False
+immunityPercent=88
+immunity1=False
+immunity2=False
+immunity3=False
+immunity4=True
+time=months6
+ex=101
+dx=101
+healthyCount=200
+sickCount=0
+deadCount=25
+immunityCount=200
